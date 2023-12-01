@@ -1,5 +1,5 @@
 # Market-Basket-Analysis
-<a name="intro"></a>
+
 # 1. Introduction
 ---
 ### Overview
@@ -7,7 +7,7 @@
 Market basket analysis is a data mining method that enables retailers or shopping stores to improve their sales by understanding their customers' transaction patterns. All the customers’ daily transaction histories are recorded to create the dataset which is critically analysed to reveal product grouping and products that a likely to be bought together in one transaction. By identifying which products tend to be bought together, the company can make informed decisions to improve sales and customer satisfaction. For more information see [here](https://www.techtarget.com/searchcustomerexperience/definition/market-basket-analysis).
 
 
-<a name="about"></a>
+
 ## 1.1 About the Dataset
 ---
 
@@ -21,7 +21,7 @@ The Market basket dataset contains over 38,000 transactions made by customers sh
 
 
 
-<a name="method"></a>
+
    ## 1.2 Methodology
    ---
    ### (a) Objective of the Project
@@ -52,7 +52,7 @@ We begin by performing the wrangling process on the dataset to familiarize and c
     (iii) We visualized the results obtained to gain insights and make recommendations
      
     
-<a name="key"></a>
+
    ## 1.3 Key insights
    ---
    > 1. In our exploration, the most frequently bought item was `whole milk` followed by `vegetables `and `buns`. The highest sales by the company happened in August 2015. We also noticed that the company made more transactions in 2015 compared to 2014.
